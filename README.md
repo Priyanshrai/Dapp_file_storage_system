@@ -1,3 +1,6 @@
+![Decentralized File Storage System](https://github.com/Priyanshrai/Dapp_file_storage_system/assets/105690577/3a007c6d-ecd2-46e8-942c-b66219a30092)
+
+
 # Decentralized File Storage System
 
 A decentralized file storage system using IPFS (InterPlanetary File System) and Ethereum. Users can upload files to IPFS, and the file metadata and ownership information are stored on the blockchain.
