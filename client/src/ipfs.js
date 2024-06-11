@@ -1,5 +1,10 @@
 import { create } from 'ipfs-http-client';
 
-const ipfs = create('https://ipfs.infura.io:5001/api/v0');
+// Connect to the local IPFS node
+const ipfs = create({
+  host: 'localhost',
+  port: '5001',
+  protocol: 'http',
+});
 
 export default ipfs;
